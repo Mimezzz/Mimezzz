@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mimezzz
+- 👋 Hi, I’m Mime
 - 👀 I’m interested in Surfing, Movies, Traveling and Problem Solving
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to further my knowledge about Health informatics and big data
