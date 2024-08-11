@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mime
 - 👀 I’m interested in Surfing, Movies, Traveling and Problem Solving
-- 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to further my knowledge about Health informatics and big data
+- 🌱 I’m work in Data Engineering and DevOps
+- 💞️ I’m looking to further my knowledge about Health informatics, Gen AI and big data
 - 📫 You can reach me at ex-mime@outlook.com
 
 <!---
